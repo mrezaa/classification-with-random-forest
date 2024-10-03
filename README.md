@@ -71,7 +71,7 @@ grid is done to find out whether there could be any improvements.
 
 ### Installing
 
-* To have a copy of code and other materials you can clone at: https://github.com/mrezaa/water_treatment_data_science.git](https://github.com/mrezaa/classification-with-random-forest.git
+* To have a copy of code and other materials you can clone at: https://github.com/mrezaa/classification-with-random-forest.git
 
 ### Executing program
 
